@@ -1,0 +1,1 @@
+# SumOfQueriesInArray_RangeSumQuery
